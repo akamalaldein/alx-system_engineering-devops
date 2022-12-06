@@ -24,4 +24,3 @@ DJ Cut Killer
 Empty casks make the most noise
 A gif is worth ten thousand words
 Acrostic
-Acrostic
